@@ -11,5 +11,8 @@ categories: rails
 A/B Testing 
 
   [split](https://github.com/andrew/split), [vanity](https://github.com/assaf/vanity) and etc.
+oauth2 
+
+  [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) is an OAuth 2 provider for Rails.
 
 一个正在默默写代码的程序员！
